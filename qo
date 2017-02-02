@@ -1,0 +1,7 @@
+<html>
+<script>
+var name = "Василий";
+name=admin;
+alert(admin);
+</script>
+</html>
